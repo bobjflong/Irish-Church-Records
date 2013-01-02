@@ -5,6 +5,7 @@ This implementation requires memcached, so if you get Dalli errors it's because 
 To run:
 
 bundle install
+
 ruby site.rb
 
 Then in your browser try something like:
